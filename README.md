@@ -29,7 +29,7 @@ This project implements a systematic approach to data analytics spanning two pri
 - Data segmentation and classification logic
 
 ## 📊 Key Deliverables
-✅ 12 analytical techniques implemented in SQL
+✅ 12 analytical techniques implemented in SQL   
 ✅ Complex queries using window functions and CTEs
 ✅ Time-series and trend analysis capabilities
 ✅ Ranking and segmentation operations
