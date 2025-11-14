@@ -30,12 +30,12 @@ This project implements a systematic approach to data analytics spanning two pri
 
 ## 📊 Key Deliverables
 ✅ 12 analytical techniques implemented in SQL   
-✅ Complex queries using window functions and CTEs
-✅ Time-series and trend analysis capabilities
-✅ Ranking and segmentation operations
-✅ Performance metrics and KPI tracking
-✅ Reusable query templates for BI reporting
-✅ Comprehensive documentation and examples
+✅ Complex queries using window functions and CTEs  
+✅ Time-series and trend analysis capabilities  
+✅ Ranking and segmentation operations  
+✅ Performance metrics and KPI tracking  
+✅ Reusable query templates for BI reporting  
+✅ Comprehensive documentation and examples  
 
 
 This project demonstrates real-world analytical problem-solving using SQL as the primary tool for extracting actionable insights from data.
