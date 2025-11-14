@@ -2,7 +2,7 @@
 
 A comprehensive SQL-based data analytics project demonstrating practical implementation of exploratory and advanced analytics techniques. This project follows a structured roadmap covering essential data analysis workflows from basic exploration to sophisticated analytical methods.
 
-## Project Overview
+## 🚀  Project Overview
 This project implements a systematic approach to data analytics spanning two primary domains:
 ![Project roadmap](docs/project_roadmap.png)
 
