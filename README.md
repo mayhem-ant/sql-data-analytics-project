@@ -38,4 +38,4 @@ This project implements a systematic approach to data analytics spanning two pri
 ✅ Comprehensive documentation and examples  
 
 
-This project demonstrates real-world analytical problem-solving using SQL as the primary tool for extracting actionable insights from data.
+---
