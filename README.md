@@ -3,7 +3,7 @@
 A comprehensive SQL-based data analytics project demonstrating practical implementation of exploratory and advanced analytics techniques. This project follows a structured roadmap covering essential data analysis workflows from basic exploration to sophisticated analytical methods.
 
 ## Project Overview
-
+![Data Architecture](docs/Project Roadmap.png)
 This repository showcases SQL-driven analytics across two primary domains:
 
 **Exploratory Data Analysis (EDA)**
